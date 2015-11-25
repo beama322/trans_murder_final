@@ -23,7 +23,7 @@ After seeing the interactive in it's "final form", I saw some aspects that could
 
 <b>INTERACTIVE</b>
 
-![Final Interactive](https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5-b77e-0e3ff518bd15/public_map)<br><br>
+<image>https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5-b77e-0e3ff518bd15/public_map</image><br><br>
 
 <b>SOURCES</b><br><br>
 
