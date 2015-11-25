@@ -21,6 +21,16 @@ The purpose of this <a href="https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5
   
 After seeing the interactive in it's "final form", I saw some aspects that could improve its public purpose. Adding a more realistic feature to this map would draw in a wider crowd than only activists. Maybe by embedding images of past cases (if possible) it would bring in a bigger audience -- the images would increase the emotional appeal and humanize the data. I decided to take the map a step further and add a layer, focusing in on Brazil. 
 
+<b>INTERACTIVE</b>
+
+<iframe width="100%" height="520" frameborder="0" src="https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5-b77e-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><br><br>
+
+<b>SOURCES</b><br><br>
+
+<a href="http://transrespect.org/en/map/trans-murder-monitoring/">Transrespect v. Transphobia: TMM Map</a>
+<a href="https://team.cartodb.com/u/aureliamoser/tables/countries/public">Countries via CartoDB</a>
+<a href="http://www.transrespect-transphobia.org/uploads/downloads/2015/TMM-IDAHOT2015/TvT-TMM-Tables_IDAHOT-2015_EN.pdf">Transrespect v. Transphobia: TMM  Dataset</a>
+<a href="http://grupotransrevolucao.blogspot.com/">Brazillian Transgender Advocacy Group</a>
 
   
 </body>
