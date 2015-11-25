@@ -18,7 +18,7 @@ The highest concentrated murders according to the data provided by the Trans Mur
   
 The purpose of this <a href="https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5-b77e-0e3ff518bd15/public_map">interactive map</a> is to provide insight on where transgender murders are a problem on a worldwide scale. In understanding which parts of the world need help moving past injustice, activists and those alike are able to pitch ideas on how to go about fixing social construction in those targeted regions. <br><br>
   
-After seeing the interactive in it's final form, I saw some aspects that could improve its public purpose. Adding a more realistic feature to this map would draw in a wider crowd than only activists. Maybe by embedding images of past cases (if possible) it would bring in a bigger audience -- the images would increase the emotional appeal and humanize the data.
+After seeing the interactive in it's final form, I saw some aspects that could improve its public purpose. Adding a more realistic feature to this map would draw in a wider crowd than only activists. Maybe by embedding images of past cases (if possible) it would bring in a bigger audience -- the images would increase the emotional appeal and humanize the data.<br><br>
 <b>INTERACTIVE</b>
 
 <image>https://beama322.cartodb.com/viz/31cb0dec-92cb-11e5-b77e-0e3ff518bd15/public_map</image><br><br>
