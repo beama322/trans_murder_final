@@ -5,7 +5,6 @@ Web Coding Final
 <html>
 <head>
   Ashley Beam<br>
-  Web Coding for Interactive Design<br>
   November 24th, 2015<br>
   <meta charset="utf-8">
   <title>Web Coding Final Assignment</title>
